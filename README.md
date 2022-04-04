@@ -1,1 +1,1 @@
-# SavesTask
+# SavesTask WASD - to move player, G - to ingame save
